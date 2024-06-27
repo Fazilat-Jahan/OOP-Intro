@@ -1,1 +1,6 @@
-# OOP-Intro
+# OOP-Introduction
+
+The is a basic implementation of OOP principles in TypeScript. It effectively manages and displays professional information, showcasing how classes can be used to encapsulate data and related methods.
+
+
+The `Fazilat` class illustrates Object-Oriented Programming (OOP) principles in TypeScript, emphasizing encapsulation, data abstraction, and method definition. By encapsulating `profession` and `professionalLink`, the class ensures these attributes are tightly integrated with their corresponding methods, fostering a unified code structure. The constructor supports the creation of multiple `Fazilat` instances with distinct attributes, such as current professions or ongoing studies. Methods like `getCurrentInfo` and `getCurrentinfo` enable structured data retrieval, ensuring consistent and abstracted presentation of information. Overall, `Fazilat` underscores OOP's effectiveness in managing and displaying information, showcasing TypeScript's capability in developing scalable and robust software solutions.
